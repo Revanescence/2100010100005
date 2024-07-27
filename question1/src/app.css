@@ -1,0 +1,21 @@
+.App {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  h1 {
+    font-size: 2em;
+  }
+  
+  label, select, button {
+    margin: 10px;
+    font-size: 1.2em;
+  }
+  
+  button {
+    padding: 10px 20px;
+  }
+  
+  div {
+    margin-top: 20px;
+  }
